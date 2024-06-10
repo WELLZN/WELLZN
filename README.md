@@ -1,6 +1,6 @@
 ## olá , meu nome é Wellington e seja bem-vindo! 👋
 
-- 🔭 Atualmente desenvolvo em back-end
+- 🔭 Atualmente desenvolvo Aplicações em back-end
 - 🌱 Estudando java e seus Frameworks
 - 🐱‍🏍 Possuo alguns projetos tambem usando front-end
 
