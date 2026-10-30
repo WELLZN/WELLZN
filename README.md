@@ -1,8 +1,6 @@
 ## olá , meu nome é Wellington e seja bem-vindo! 👋
 
-- 🔭 Atualmente desenvolvo Aplicações em back-end
-- 🌱 Estudando java e seus Frameworks
-- 🐱‍🏍 Possuo alguns projetos tambem usando front-end
+- Sou um desenvolvedor Fullstack usando Java/Angular , ja participei de times em projetos de larga escala e com acompanhamento de chamados em real-time , hoje estudo sobre a parte de infraestrutura e nuvem (AWS).
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WELLZN&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
